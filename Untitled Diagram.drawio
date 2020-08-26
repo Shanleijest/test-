@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-21T18:31:17.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="YOjsKDuz5yQRA_6o4hy1" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-26T18:50:49.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="qW50AhV96rXSkSTgwYuI" version="13.6.2" type="github">
   <diagram id="-NI7jD1zWgYqVaLlK_oN" name="Page-1">
     <mxGraphModel dx="925" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -22,13 +22,13 @@
         <mxCell id="CPMlRQxNfgsovF9pAXsS-6" value="Copiar Archivo" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="165" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CPMlRQxNfgsovF9pAXsS-7" value="C:\Users\EPBIY\OneDrive-Bayer\Personal Data\ Close Up\dd.mm.yy" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CPMlRQxNfgsovF9pAXsS-7" value="C:\Users\EPBIY\OneDrive-Bayer\Personal Data\ Close Up\ddmmyy" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="110" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CPMlRQxNfgsovF9pAXsS-10" value="&lt;br&gt;Almacenamiento Interno" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="590" y="115" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="CPMlRQxNfgsovF9pAXsS-11" value="Slides RX 1 &lt;br&gt;Page &quot;mes anterior&quot; (data anterior)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+        <mxCell id="CPMlRQxNfgsovF9pAXsS-11" value="Slides_RX _1_Page_&quot;mes anterior&quot;.xlsx (información anterior)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="375" y="230" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CPMlRQxNfgsovF9pAXsS-12" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CPMlRQxNfgsovF9pAXsS-1" target="CPMlRQxNfgsovF9pAXsS-2" edge="1">
@@ -73,13 +73,13 @@
         <mxCell id="CPMlRQxNfgsovF9pAXsS-36" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CPMlRQxNfgsovF9pAXsS-24" target="CPMlRQxNfgsovF9pAXsS-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CPMlRQxNfgsovF9pAXsS-24" value="Cambiar mes por el nombre del mes a actualizar" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CPMlRQxNfgsovF9pAXsS-24" value="Actualizar el nombre del archivo con el mes correspondiente" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="165" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CPMlRQxNfgsovF9pAXsS-25" value="Slides RX 1 Page &quot;mes a actualizar&quot;(data actual)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+        <mxCell id="CPMlRQxNfgsovF9pAXsS-25" value="Slides_RX _1_Page_&quot;mes a actualizar&quot;.xlsx (información actual)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CPMlRQxNfgsovF9pAXsS-26" value="Abrir documento" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CPMlRQxNfgsovF9pAXsS-26" value="Abrir archivo" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="165" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPMlRQxNfgsovF9pAXsS-34" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CPMlRQxNfgsovF9pAXsS-27" target="CPMlRQxNfgsovF9pAXsS-28" edge="1">
@@ -155,7 +155,7 @@
         <mxCell id="rOsCPLhGjKYMU-jZKiCi-40" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rOsCPLhGjKYMU-jZKiCi-37" target="rOsCPLhGjKYMU-jZKiCi-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rOsCPLhGjKYMU-jZKiCi-37" value="Esperar 15 minutos" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rOsCPLhGjKYMU-jZKiCi-37" value="Esperar~15 minutos" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rOsCPLhGjKYMU-jZKiCi-42" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rOsCPLhGjKYMU-jZKiCi-39" target="rOsCPLhGjKYMU-jZKiCi-41">
@@ -173,9 +173,9 @@
         <mxCell id="rOsCPLhGjKYMU-jZKiCi-56" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rOsCPLhGjKYMU-jZKiCi-52" target="rOsCPLhGjKYMU-jZKiCi-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rOsCPLhGjKYMU-jZKiCi-76" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.53;exitY=0.819;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rOsCPLhGjKYMU-jZKiCi-60" target="rOsCPLhGjKYMU-jZKiCi-102">
+        <mxCell id="rOsCPLhGjKYMU-jZKiCi-76" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.53;exitY=0.819;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rOsCPLhGjKYMU-jZKiCi-60" target="rOsCPLhGjKYMU-jZKiCi-116">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="2260" as="targetPoint" />
+            <mxPoint x="470" y="2245" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rOsCPLhGjKYMU-jZKiCi-70" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rOsCPLhGjKYMU-jZKiCi-68" target="CPMlRQxNfgsovF9pAXsS-25">
@@ -210,7 +210,7 @@
         <mxCell id="rOsCPLhGjKYMU-jZKiCi-58" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rOsCPLhGjKYMU-jZKiCi-96" source="rOsCPLhGjKYMU-jZKiCi-54" target="rOsCPLhGjKYMU-jZKiCi-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rOsCPLhGjKYMU-jZKiCi-60" value="Reporte MS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="rOsCPLhGjKYMU-jZKiCi-96">
+        <mxCell id="rOsCPLhGjKYMU-jZKiCi-60" value="Se genera&lt;br&gt;Reporte MS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="rOsCPLhGjKYMU-jZKiCi-96">
           <mxGeometry x="215" y="80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rOsCPLhGjKYMU-jZKiCi-61" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rOsCPLhGjKYMU-jZKiCi-96" source="rOsCPLhGjKYMU-jZKiCi-57" target="rOsCPLhGjKYMU-jZKiCi-60">
@@ -246,7 +246,7 @@
         <mxCell id="rOsCPLhGjKYMU-jZKiCi-53" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rOsCPLhGjKYMU-jZKiCi-97" source="rOsCPLhGjKYMU-jZKiCi-49" target="rOsCPLhGjKYMU-jZKiCi-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rOsCPLhGjKYMU-jZKiCi-98" value="Desde reporte-1&lt;br&gt;Hasta reporte-64&lt;br&gt;Incremento de 1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="rOsCPLhGjKYMU-jZKiCi-98" value="Actividades a &lt;br&gt;ejecutar para los 84 reportes&lt;br&gt;(1 a 1)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="1550" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rOsCPLhGjKYMU-jZKiCi-100" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rOsCPLhGjKYMU-jZKiCi-98" target="rOsCPLhGjKYMU-jZKiCi-43">
@@ -258,7 +258,7 @@
         <mxCell id="rOsCPLhGjKYMU-jZKiCi-101" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="120" y="2410" width="395" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="rOsCPLhGjKYMU-jZKiCi-68" value="Pegar y actualizar información" style="whiteSpace=wrap;html=1;" vertex="1" parent="rOsCPLhGjKYMU-jZKiCi-101">
+        <mxCell id="rOsCPLhGjKYMU-jZKiCi-68" value="Pegar información en el archivo nuevo a actualizar" style="whiteSpace=wrap;html=1;" vertex="1" parent="rOsCPLhGjKYMU-jZKiCi-101">
           <mxGeometry x="40" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rOsCPLhGjKYMU-jZKiCi-90" value="" style="group" vertex="1" connectable="0" parent="rOsCPLhGjKYMU-jZKiCi-101">
@@ -352,8 +352,8 @@
         <mxCell id="rOsCPLhGjKYMU-jZKiCi-115" value="Sí" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rOsCPLhGjKYMU-jZKiCi-101">
           <mxGeometry x="260" y="560" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rOsCPLhGjKYMU-jZKiCi-102" value="Desde reporte-1&lt;br&gt;Hasta reporte-6&lt;br&gt;Incremento de 1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="2280" width="120" height="80" as="geometry" />
+        <mxCell id="rOsCPLhGjKYMU-jZKiCi-102" value="Desde reporte 1&lt;br&gt;Hasta reporte 6&lt;br&gt;(1 a 1)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rOsCPLhGjKYMU-jZKiCi-104" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rOsCPLhGjKYMU-jZKiCi-102" target="rOsCPLhGjKYMU-jZKiCi-75">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -367,7 +367,20 @@
             <mxPoint x="260" y="2880" as="targetPoint" />
             <Array as="points">
               <mxPoint x="650" y="2990" />
-              <mxPoint x="650" y="2320" />
+              <mxPoint x="650" y="2350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rOsCPLhGjKYMU-jZKiCi-116" value="Se acumularán los primeros 6 reportes como pestañas de un reporte por mercado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="2230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rOsCPLhGjKYMU-jZKiCi-118" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rOsCPLhGjKYMU-jZKiCi-116" target="rOsCPLhGjKYMU-jZKiCi-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="2450" as="sourcePoint" />
+            <mxPoint x="530" y="2400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="2260" />
+              <mxPoint x="330" y="2350" />
             </Array>
           </mxGeometry>
         </mxCell>
